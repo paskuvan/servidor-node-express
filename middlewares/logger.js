@@ -1,6 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 
+const logPath = path.join(__dirname, "../logs/log.txt");
+
 const loggerMiddleware = (req, res, next) => {
   const now = new Date();
   const fecha = now.toLocaleDateString("es-CL");
