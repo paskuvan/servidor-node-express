@@ -1,6 +1,6 @@
 # Node & Express Web App 🚀
 
-Proyecto backend desarrollado con **Node.js** y **Express** como parte de la evaluación del módulo 6.
+Proyecto backend desarrollado con **Node.js** y **Express** como parte de la evaluación del módulo 6, 7 y 8.
 
 ---
 
